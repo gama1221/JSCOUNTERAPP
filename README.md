@@ -1,1 +1,2 @@
-# JSCOUNTERAPP
+# JS COUNTER APP using Vanila JS and VueJS 3
+About the app loading...
